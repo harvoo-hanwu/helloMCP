@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name": "威思客",
+    "description": "威发系统有限公司拥有30余年网络系统集成及18余年独立软件开发经验。威思客系列智能办公解决方案，围绕数字化办公室、楼宇、园区，以可视化空间管理及智能互联互动为特色，主要包括访客管理、会议室管理、工位管理、信息发布、无线接入、视频协作、即时通信等内容，提高员工的使用体验和工作效率。",
+    "contact": {
+      "sales_phone": "400-685-3160",
+      "service_phone": "400-680-0690",
+      "email": "sales@virsical.com",
+      "website": "http://www.virsical.com/"
+    }
+  },
+  "products": [
+    {
+      "name": "MetaWork",
+      "description": "构建更加智能开放的空间，提升企业生产效率，给员工人性化的体验，同时节约资源减少浪费，为企业打造可感知、会思考、会进化的智能舒适办公空间。",
+      "url": "https://www.virsical.cn/metawork.html"
+    },
+    {
+      "name": "MetaSpace",
+      "description": "通过物联化、数字化、可视化、智能化，为现代楼宇建立专业的监测、告警、管理、分析和决策的综合一体化解决方案。",
+      "url": "https://www.virsical.cn/metaspace.html"
+    },
+    {
+      "name": "MetaFM",
+      "description": "线上化、流程化、数据化、智能化的建筑设施综合运维管理平台，设施管理企业能够通过平台的个性化配置实现各设施管理项目及站点的业务应用。",
+      "url": "https://www.virsical.cn/metafm.html"
+    },
+    {
+      "name": "MetaView",
+      "description": "面向企业行政办公全场景，融合企业行政应用和智能物联大数据，全方位、多角度洞察企业数据价值，帮助企业增强空间体验，提升资源利用，改进使用习惯，优化环境指数，提供ESG分析。",
+      "url": "https://www.virsical.cn/metaview.html"
+    }
+  ],
+  "news": [
+    {
+      "title": "ESG智慧办公最佳实践 | 威思客空间洞察：让每一寸空间发挥最大价值！",
+      "date": "2025-02-27",
+      "url": "https://www.virsical.cn/news/189.html"
+    },
+    {
+      "title": "威思客 AI 赋能平台接入 DeepSeek 大模型，开启智能办公新纪元！",
+      "date": "2025-02-12",
+      "url": "https://www.virsical.cn/news/190.html"
+    },
+    {
+      "title": "ESG智慧办公最佳实践 | 威思客智能厕卫系统，助力企业可持续发展与高效运营",
+      "date": "2024-12-31",
+      "url": "https://www.virsical.cn/news/Smart-Toilet-System.html"
+    },
+    {
+      "title": "ESG智慧办公最佳实践 | HID智能电子门禁卡 开启门禁管理新时代",
+      "date": "2024-11-25",
+      "url": "https://www.virsical.cn/news/HID-Mobile.html"
+    },
+    {
+      "title": "合作共赢 | 进博会现场 威思客&飞利浦商显官宣战略合作",
+      "date": "2024-11-11",
+      "url": "https://www.virsical.cn/news/185.html"
+    },
+    {
+      "title": "共庆JLL进入中国市场30周年，威思客赋能商业地产创新未来",
+      "date": "2024-10-30",
+      "url": "https://www.virsical.cn/news/184.html"
+    }
+  ],
+  "partnership": {
+    "description": "威思客诚邀您成为我们的生态或渠道合作伙伴。无论您是技术先锋、行业专家，还是经验丰富的代理商，我们都将与您共享资源，互补优势，共同推动智能办公的创新与发展。",
+    "url": "https://www.virsical.cn/partners.html"
+  }
+}
