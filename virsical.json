@@ -1,0 +1,72 @@
+{
+  "company": {
+    "name": "威思客",
+    "slogan": "成就新一代智能空间管理",
+    "description": "威发系统有限公司拥有30余年网络系统集成及18余年独立软件开发经验。威思客系列智能办公解决方案，围绕数字化办公室、楼宇、园区，以可视化空间管理及智能互联互动为特色，主要包括访客管理、会议室管理、工位管理、信息发布、无线接入、视频协作、即时通信等内容，提高员工的使用体验和工作效率。",
+    "contact": {
+      "sales_phone": "400-685-3160",
+      "service_phone": "400-680-0690",
+      "email": "sales@virsical.com",
+      "website": "http://www.virsical.cn/"
+    }
+  },
+  "products": [
+    {
+      "name": "企业数字化行政（MetaWork）",
+      "sub_products": [
+        "智能会议（Smart Meeting）",
+        "空间管理（Smart Workspace）", 
+        "智能访客（Smart Visitor）"
+      ]
+    },
+    "FM设备设施管理（MetaFM）",
+    "空间数字孪生（MetaSpace）",
+    "企业数字洞察（MetaView）",
+    "环境能碳管理（MetaE）"
+  ],
+  "solutions": [
+    "ESG智慧办公最佳实践解决方案",
+    "空间和设备的智能化运维及管理",
+    "IBMS建筑集成系统解决方案",
+    "ESG与能碳环境管理解决方案",
+    "智慧校园解决方案",
+    "零售/连锁智能化解决方案",
+    "智慧医疗解决方案",
+    "智慧园区解决方案",
+    "空间通行多样化"
+  ],
+  "latest_news": [
+    {
+      "title": "ESG智慧办公最佳实践 | 威思客空间洞察：让每一寸空间发挥最大价值！",
+      "date": "2025/02/27",
+      "image": "https://www.virsical.cn/d/file/p/2025/02-27/f6bcdd0b1c1cf2908a26092f8d7d4703.jpg",
+      "link": "https://www.virsical.cn/news/189.html"
+    },
+    {
+      "title": "威思客 AI 赋能平台接入 DeepSeek 大模型，开启智能办公新纪元！",
+      "date": "2025/02/27",
+      "image": "https://www.virsical.cn/d/file/p/2025/02-27/a749233638236305934e62e2fc212804.jpg",
+      "link": "https://www.virsical.cn/news/190.html"
+    }
+  ],
+  "partnership": {
+    "description": "威思客诚邀您成为我们的生态或渠道合作伙伴。无论您是技术先锋、行业专家，还是经验丰富的代理商，我们都将与您共享资源，互补优势，共同推动智能办公的创新与发展。",
+    "benefits": [
+      {
+        "title": "成本节约",
+        "description": "通过对会议室、工位、前台、网络、音视频设备、门禁等统一智能化管理，降低企业运营、管理成本",
+        "icon": "https://www.virsical.cn/assets/img/card/sales-ico-1.png"
+      },
+      {
+        "title": "简单便捷",
+        "description": "统一平台化管理，多终端设备支持，多应用系统集成，后台管理与员工使用体验更加简单、便捷",
+        "icon": "https://www.virsical.cn/assets/img/card/sales-ico-2.png"
+      },
+      {
+        "title": "高效安全",
+        "description": "端到端数据加密传输，完善安全认证机制，基于角色应用授权管理，保障企业应用和数据安全",
+        "icon": "https://www.virsical.cn/assets/img/card/sales-ico-3.png"
+      }
+    ]
+  }
+}
